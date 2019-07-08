@@ -6,7 +6,7 @@ public class Mobile {
 		// TODO Auto-generated method stub
 
 		System.out.println("I have REDMI note 5 PRO");
-		System.out.println("Mobile is very good");
+		
 
 		
 	}
